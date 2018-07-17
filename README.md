@@ -1,1 +1,4 @@
 # Machine Learning on Location
+
+
+In this project, I have set up and compared different machine learning algorithms to determine if and how accurately it could predict the region location (in our dataset called as ?Regione?) given a dataset sourced from the Italian Government. The dataset is a collection of schools made with basic location data (city, address, postcode) and some additional data unique to each school. This study has shown that, even with minimal features, the algorithms can predict a region with a high accuracy, some algorithms, such as regression and decision trees have been proven more accurate than others. The project has proven that using machine learning algorithm to predict location of a certain entity (in this case schools) can be very effective.
